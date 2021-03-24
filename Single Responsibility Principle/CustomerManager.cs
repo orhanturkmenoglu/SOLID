@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Single_Responsibility_Principle
 {
-   public class ProductManager
+   public class CustomerManager
     {
         // Doğru kullanımı bu olmalıdır. 
         public void Add(Customer customer)
