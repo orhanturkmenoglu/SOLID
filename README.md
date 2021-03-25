@@ -21,7 +21,7 @@ SOLİD PRENSİPLERİ
 
 4.Interface Segregation Principle (“Ara yüzlerin ayrılması prensibi”) tek interface yerine özelleşmiş birden fazla interface kullanmak
 
-5.Dependency Inversion Principle (Bagımlılıkları tersıne cevirme.) “Katmanlı mimarilerde üst seviye modüller alt seviyedeki modüllere doğruda bağımlı olmamalıdır.”
+5.Dependency Inversion Principle (Bağımlılıkları tersine çevirme.) “Katmanlı mimarilerde üst seviye modüller alt seviyedeki modüllere doğruda bağımlı olmamalıdır.”
 
 
 #Solid prensipleri detaylı anlatım ve örneklerle anlatıldı.
