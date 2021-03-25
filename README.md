@@ -17,7 +17,7 @@ SOLİD PRENSİPLERİ
 
 2.Open / Closed Principle (gelişime açık değişime kapalı)
 
-3.Liskov ‘s Substitution Principle
+3.Liskov ‘s Substitution Principle (Yerine geçme prensibi)
 
 4.Interface Segregation Principle (“Ara yüzlerin ayrılması prensibi”) tek interface yerine özelleşmiş birden fazla interface kullanmak
 
