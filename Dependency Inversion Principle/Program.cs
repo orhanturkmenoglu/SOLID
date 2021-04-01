@@ -6,7 +6,7 @@ namespace Dependency_Inversion_Principle
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
