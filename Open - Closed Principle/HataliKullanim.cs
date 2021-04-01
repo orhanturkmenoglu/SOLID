@@ -8,13 +8,13 @@ namespace Open___Closed_Principle
     {
         static void Main(string[] args)
         {
-
+            // Hatali Kullanim 
+            // Nedeni ileride gelecek olan gereksinimler artacagı için koda müdahale edilmesi gereklidir ayrıca kod tekrarı önlenmelidir.
+            // Open /Closed prensibi yazılımlar değişime kapalı sadece gelişime açık olmalıdır Kural ihlali vardır.   
         }
 
 
-        // Hatali Kullanim 
-        // Nedeni ileride gelecek olan gereksinimler artacagı için koda müdahale edilmesi gereklidir ayrıca kod tekrarı önlenmelidir.
-        // Open /Closed prensibi yazılımlar değişime kapalı sadece gelişime açık olmalıdır Kural ihlali vardır.   
+
         public class Mysql
         {
             public void Log()
