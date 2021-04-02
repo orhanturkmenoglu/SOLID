@@ -29,6 +29,9 @@
             // sadece constructor parametresini değiştirmemiz yeterli olacaktır.
             DatabaseManager oracle = new DatabaseManager(new Oracle());
             oracle.Log();
+
+            DatabaseManager mySql = new DatabaseManager(new MySql());
+            mySql.Log();
         }
 
 
